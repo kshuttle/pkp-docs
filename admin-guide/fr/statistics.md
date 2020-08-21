@@ -86,7 +86,14 @@ COUNTER | Fournit des rapports COUNTER pour toutes les revues sur l'application 
 
 ### Tableau de Comparaison de Tous les Rapports de Contenu OJS
 
-| Articles | Fournit des informations générales sur tous les articles du système, incl. Titre, résumé, auteurs, décision du/de la rédacteur-trice et statut. | Contenu | N | O | O | | --- | --- | --- | | Abonnements | Fournit des informations sur les abonnements individuels et institutionnels. | Contenu | N | O | O | | Revue | Fournit des informations de revue sur tous les articles du système, incl. noms, avis et recommandations des évaluateurs-trices. | Contenu | N | O | O |
+| Articles | Fournit des informations générales sur tous les articles du système, incl. Titre, résumé, auteurs, décision du/de la rédacteur-trice et statut. | Contenu | N | O | O |
+--- | --- | --- 
+| Abonnements | Fournit des informations sur les abonnements individuels et institutionnels. | Contenu | N | O | O | Revue | Fournit des informations de revue sur tous les articles du système, incl. noms, avis et recommandations des évaluateurs-trices. | Contenu | N | O | O |
+
+| Articles | Provides general information on all articles in the system, incl. Title, abstract, authors, editor decision, and status. | Content | N | Y | Y |
+| --- | --- | --- |
+| Subscriptions | Provides information on any individual and institutional subscriptions. | Content | N | Y | Y |
+| Review | Provides review information on all articles in the system, incl. reviewer names, reviews, and recommendation. | Content | N | Y | Y |
 
 ### Rapport sur les Consultations Programmées
 
